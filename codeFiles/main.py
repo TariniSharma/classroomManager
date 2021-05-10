@@ -11,8 +11,8 @@ def hello_world():
     return 'Hello, World!!!'
 
 def set_session_id_in_response(request, response):
-  response['session']['id'] = request['session']['id'] # TODO
-  response['scene']['name'] = request['scene']['name'] # TODO
+  response['session']['id'] = request['session']['id'] 
+  response['scene']['name'] = request['scene']['name'] 
   return response
 
 def get_all_activeCourses(response,service):
