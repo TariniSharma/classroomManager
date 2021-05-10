@@ -1,0 +1,5 @@
+Directions:
+(1) https://developers.google.com/workspace/guides/create-credentials#desktop (create desktop application credentials) 
+  (1.1) Copy the contents of the generated json file to codeFiles/credentials.json
+  (1.2) Executing main.py in replit creates token.json file in the same folder
+(2) Run the test version of myClassroomManager in google actions console/ "Talk to myClassroomManger" using google assistant
