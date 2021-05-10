@@ -1,5 +1,12 @@
 Directions:
-(1) https://developers.google.com/workspace/guides/create-credentials#desktop (create desktop application credentials) 
+(1) Create desktop application credentials (https://developers.google.com/workspace/guides/create-credentials#desktop)
   (1.1) Copy the contents of the generated json file to codeFiles/credentials.json
   (1.2) Executing main.py in replit creates token.json file in the same folder
-(2) Run the test version of myClassroomManager in google actions console/ "Talk to myClassroomManger" using google assistant
+(2) Run the test version of myClassroomManager in google actions console/ "Talk to myClassroomManger" using google assistant (actions to be deployed after advancing them more)
+
+Usage:
+(1) Get all my active courses on classroom
+(2) Get all archived courses
+(3) Get details of a particular course
+(4) Get all the deadlines of a course
+(5) Submit a file for a courseWork (To do)
