@@ -1,2 +1,2 @@
 # classroomManager
-An extension of google assistant to help manage classroom resources
+An extension to help manage classroom resources
